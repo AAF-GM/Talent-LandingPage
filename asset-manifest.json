@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a03190e7.css",
-    "main.js": "/static/js/main.82b7398a.js",
-    "static/media/heroAbout-Img.png": "/static/media/heroAbout-Img.b95a98f5d93f45125e89.png",
+    "main.css": "/static/css/main.d71c14fb.css",
+    "main.js": "/static/js/main.88cd31a2.js",
     "static/media/bglastSection.jpg": "/static/media/bglastSection.bc29590e16701435a100.jpg",
     "static/media/about-r.jpg": "/static/media/about-r.0d88b619335cf486bb5d.jpg",
     "static/media/postimg1.jpg": "/static/media/postimg1.f4d9747d14a7f69d90b1.jpg",
@@ -11,15 +10,16 @@
     "static/media/about.jpg": "/static/media/about.99a5eb6ed60fa8f9d4dd.jpg",
     "static/media/allbg.jpg": "/static/media/allbg.58497695b77b18c5ebcb.jpg",
     "static/media/postimg2.jpg": "/static/media/postimg2.bf29057e3928cea4454d.jpg",
-    "static/media/iPhone.png": "/static/media/iPhone.3376dc56c969ee47dbdd.png",
     "static/media/hero-bg.png": "/static/media/hero-bg.ac30d99c573a84d581df.png",
+    "static/media/heroAbout-Img.webp": "/static/media/heroAbout-Img.70f7b872abcd72e0a216.webp",
     "static/media/logoTalent.png": "/static/media/logoTalent.52f22e5df4de4721a0fd.png",
+    "static/media/iphonelogo.webp": "/static/media/iphonelogo.7f56ab10a427e0c659b1.webp",
     "index.html": "/index.html",
-    "main.a03190e7.css.map": "/static/css/main.a03190e7.css.map",
-    "main.82b7398a.js.map": "/static/js/main.82b7398a.js.map"
+    "main.d71c14fb.css.map": "/static/css/main.d71c14fb.css.map",
+    "main.88cd31a2.js.map": "/static/js/main.88cd31a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a03190e7.css",
-    "static/js/main.82b7398a.js"
+    "static/css/main.d71c14fb.css",
+    "static/js/main.88cd31a2.js"
   ]
 }
